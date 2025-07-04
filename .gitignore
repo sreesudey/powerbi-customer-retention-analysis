@@ -1,0 +1,22 @@
+# Power BI files you want to avoid uploading
+*.pbip
+*.pbit
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data or output files (if needed)
+*.zip
+*.bak
+*.tmp
+
+# VS Code config (optional)
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments (if any)
+venv/
+.env/
